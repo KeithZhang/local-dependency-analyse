@@ -1,0 +1,11 @@
+{
+  "name": "script-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/parser": "^7.9.6",
+    "@types/node": "^14.0.1",
+    "typescript": "^3.9.2"
+  }
+}
